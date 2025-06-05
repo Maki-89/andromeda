@@ -1,1 +1,3 @@
 miclave
+Agregando animaciones
+Finalizando animaciones
